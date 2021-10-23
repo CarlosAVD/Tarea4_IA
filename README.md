@@ -1,5 +1,6 @@
-# Tarea4_IA
-Tarea 4 de Inteligencia Artificial, sobre Algoritmos Evolutivos (genéticos básicos)
+# **Tarea 4:** Algoritmos Evolutivos (genéticos básicos)
+## Área Académica de Ingeniería Mecatrónica - MT8008: Inteligencia Artificial
+#### Autores: Marco Rodríguez Barboza y Carlos Valverde Díaz 
 
 Se hizo uso de las librerías: `matplotlib.pyplot`, `matlab.engine`, `pygad`, `numpy`, `random` y `math`.
 
